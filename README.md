@@ -1,2 +1,15 @@
-# Password-Manager
-Be the secret agent of your own security! 🔐 This Python app whips up strong passwords, saves them like a vault, and copies them like a ninja. Fast, safe, and no memory required (for you). Your digital life just got upgraded. 💻🕵️
+# 🔐 Password Generator & Manager
+
+A sleek Python tool to generate strong passwords, save them securely, and copy them instantly to your clipboard. No more "12345" nonsense!
+
+## 🚀 Features
+- Generates random, strong passwords
+- Saves login info (website, email, password)
+- Copies password to clipboard for easy pasting
+
+## 🧠 Example
+```python
+Website: github.com  
+Email: user@example.com  
+Generated Password: xZ@8!rPq7L#c  
+(Saved & copied!)
